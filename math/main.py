@@ -18,5 +18,5 @@ print(f"math.floor(3.9) = {math.floor(3.9)}")
 
 
 radius = float(input("Enter the radius of circle: "))
-result = round(math.pi * radius * 2, 2)
-print(f"circuference = {result}")
+result = round(math.pi * pow(radius,2), 2)
+print(f"Area = {result}")
