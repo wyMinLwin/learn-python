@@ -34,10 +34,8 @@ This roadmap contains everything you must master before starting Machine Learnin
 - List/dict comprehensions (IMPORTANT)
 
 ## Drills
-- Filter odd numbers from a list  
-- Convert list → set → list (remove duplicates)  
-- Count item frequencies using a dictionary  
-- Re-write loops as list comprehensions  
+
+[Drills](./phase_2/drills/drills.md)
 
 ---
 
