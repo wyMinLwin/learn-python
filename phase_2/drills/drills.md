@@ -43,7 +43,7 @@ event_counts = [3, 6, 9, 12, 15, 18]
 
 ## 🟡 User Identity Normalization — Dedup & Feature Mapping
 
-### Scenario (FAANG-style)
+### Scenario
 
 You are cleaning **raw user identity data** before storing it in a user-profile service. Usernames may appear multiple times and must be normalized.
 
